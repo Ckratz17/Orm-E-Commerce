@@ -57,6 +57,8 @@ DELETE
 GET after delete to return not found
 ![DeleteNotFound](./assets/afterDelete.png)
 
+Example video
+(https://watch.screencastify.com/v/QEYpUGQuY24iBt9cHuso)
 
 ## Questions
 
